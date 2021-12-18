@@ -1,0 +1,83 @@
+body{ 
+    background-image: url(https://fondosmil.com/fondo/10935.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    }
+h1{ 
+        text-align: center; 
+    font-family: Britannic Bold;
+    color: rgb(0, 0, 0);
+    }
+.parrafo1{ 
+    font-family:sans-serif ;
+}
+.img1{ 
+    border: 4px solid rgb(31, 1, 1); 
+    padding: 5px;
+    width: 350px;
+    height: 350px;
+    position: relative;
+    
+    }
+.img1:hover{
+        transform: scale(1.2)
+        }
+.img2{ 
+    border: 4px solid rgb(31, 1, 1); 
+    padding: 5px;
+    width: 350px;
+    height: 350px;
+    position: relative;
+    left:  60px
+    }
+.img2:hover{
+    transform: scale(1.2)
+    }
+
+.img3{
+    border: 4px solid rgb(31, 1, 1); 
+    padding: 5px;
+    width: 400px;
+    height: 300px;
+    position: relative;
+    left:  150px
+    
+    }  
+.img3:hover{
+    transform: scale(1.2)
+    } 
+.img4{  
+    border: 4PX solid rgb(31, 1, 1); 
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 60px
+    } 
+.img4:hover{
+    transform: scale(1.2)
+    } 
+.img5{ 
+    border: 4PX solid rgb(31, 1, 1); 
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 250px
+    }  
+.img5:hover{
+    transform: scale(1.2)
+} 
+.bt1{
+    text-decoration:none;
+    border: 3px solid rgba(10, 4, 0, 0.808);
+    padding: 15px 30px;
+    background-color:rgb(10, 178, 207) ;
+    position: relative;
+    left: 150px;
+}
+.bt1:hover{
+    background-color:rgb(4, 161, 101)
+}

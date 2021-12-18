@@ -1,0 +1,55 @@
+body{ 
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/181/369/165/volcanoes-volcano-andes-cotopaxi-wallpaper-preview.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    }
+
+.h1{ text-align: center; 
+    font-family: Harlow Solid Italic ;
+    color: beige;
+    }
+.h2{
+    text-align: center; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: beige;
+    }
+.p1 { 
+    text-align: center;
+    font-family: "Arial Rounded MT Bold" ; 
+    color: beige;
+}
+.img1 {
+    border: 4px solid rgb(255, 255, 255); 
+    padding: 10px;
+    width: 350px;
+    height: 350px;
+    }
+.p2 {
+    text-align: left;
+    font-family: "Arial Rounded MT Bold" ; 
+    color: beige;
+
+    } 
+
+
+.bt1{
+    text-decoration:none;
+    border: 5px solid rgba(37, 0, 0, 0.808);
+    padding: 15px 30px;
+    background-color:rgb(248, 248, 248) ;
+    position: relative;
+    left: 250px;
+}
+.bt1:hover{
+    background-color:rgb(0, 169, 199)
+}
+.piedepagina{
+height: 40px;
+border: dimgrey 100px;
+color: rgb(8, 8, 8);
+border-bottom: 1px solid gray;
+margin-top: 50px;
+}
+

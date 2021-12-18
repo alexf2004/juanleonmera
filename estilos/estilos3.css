@@ -1,0 +1,41 @@
+body{ 
+    background-image: url(https://previews.123rf.com/images/mstupakova/mstupakova1702/mstupakova170200098/72575039-fondo-de-m%C3%BAsica-multicolor-para-tela-papel-y-dise%C3%B1o-web.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    }
+.h1{
+    font-family:cursive;
+}
+.h2{
+    font-family:sans-serif;
+}
+.tabla1,td{ 
+    position: relative;
+    border-style:groove;
+    padding: 10px;
+    width: 1000px;
+    height: 50px;
+    
+}
+.tr1:hover{
+    background-color:rgb(13, 233, 159)
+}
+.tr2:hover{
+    background-color:rgb(132, 225, 241)
+}
+.tr3:hover{
+    background-color:rgb(156, 230, 122)
+}
+.bt1{
+    text-decoration:none;
+    border: 3px solid rgb(2, 2, 2);
+    padding: 15px 30px;
+    background-color:rgb(255, 255, 255) ;
+    position: relative;
+    left: 150px;
+}
+.bt1:hover{
+    background-color:rgb(50, 184, 224)
+}
